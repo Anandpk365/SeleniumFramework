@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OpenEMR Suite" duration-ms="11897" started-at="2022-04-20T21:52:31 IST" finished-at="2022-04-20T21:52:43 IST">
+    <groups>
+    </groups>
+    <test name="OpenEMR Test" duration-ms="11897" started-at="2022-04-20T21:52:31 IST" finished-at="2022-04-20T21:52:43 IST">
+      <class name="com.harman.test.LoginUITest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.harman.test.LoginUITest@6950e31]" name="setup" is-config="true" duration-ms="10960" started-at="2022-04-20T21:52:31 IST" finished-at="2022-04-20T21:52:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateTitleTest()[pri:0, instance:com.harman.test.LoginUITest@6950e31]" name="validateTitleTest" duration-ms="46" started-at="2022-04-20T21:52:42 IST" finished-at="2022-04-20T21:52:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.harman.test.LoginUITest@6950e31]" name="teardown" is-config="true" duration-ms="841" started-at="2022-04-20T21:52:42 IST" finished-at="2022-04-20T21:52:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.harman.test.LoginUITest -->
+    </test> <!-- OpenEMR Test -->
+  </suite> <!-- OpenEMR Suite -->
+</testng-results>
